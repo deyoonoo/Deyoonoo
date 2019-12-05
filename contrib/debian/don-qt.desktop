@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=DON Core
+Comment=DON P2P Cryptocurrency
+Comment[fr]=DON, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=DON, eşten eşe kriptografik sanal para birimi
+Exec=don-qt %u
+Terminal=false
+Type=Application
+Icon=don128
+MimeType=x-scheme-handler/don;
+Categories=Office;Finance;
+StartupWMClass=DON-qt

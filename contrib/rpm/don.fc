@@ -1,0 +1,8 @@
+/usr/bin/don-cli		--	gen_context(system_u:object_r:don_exec_t,s0)
+/usr/sbin/dond		--	gen_context(system_u:object_r:don_exec_t,s0)
+/usr/lib(64)?/don/dond		--	gen_context(system_u:object_r:don_exec_t,s0)
+
+/etc/don(/.*)?		gen_context(system_u:object_r:don_conf_t,s0)
+/var/lib/don(/.*)?		gen_context(system_u:object_r:don_var_lib_t,s0)
+
+(/var)?/run/dond(/.*)?   gen_context(system_u:object_r:don_var_run_t,s0)

@@ -1,0 +1,6 @@
+usr/local/bin/don-qt usr/bin
+share/pixmaps/don32.xpm usr/share/pixmaps
+share/pixmaps/don16.xpm usr/share/pixmaps
+share/pixmaps/don128.png usr/share/pixmaps
+debian/don-qt.desktop usr/share/applications
+debian/don-qt.protocol usr/share/kde4/services/

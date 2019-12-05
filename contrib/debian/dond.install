@@ -1,0 +1,3 @@
+usr/local/bin/dond usr/bin
+usr/local/bin/don-cli usr/bin
+debian/examples/don.conf etc/don
