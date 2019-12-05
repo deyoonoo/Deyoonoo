@@ -28,7 +28,7 @@ packages:
 - "python-setuptools"
 - "fonts-tuffy"
 remotes:
-- "url": "/home/debian/deyoonoo/"
+- "url": "https://github.com/deyoonoo/deyoonoo.git"
   "dir": "deyoonoo"
 files:
 - "MacOSX10.11.sdk.tar.gz"
